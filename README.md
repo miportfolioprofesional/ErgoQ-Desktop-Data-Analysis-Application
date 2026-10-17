@@ -34,7 +34,7 @@ The project demonstrates how custom software can help replace repetitive spreads
 
 Screenshots of the application's interface, features, and analysis workflow are available in the [`ErgoQ - Images`](./ErgoQ%20-%20Images/) folder in this repository.
 
-The images showcase the application’s main screens, data processing workflow, and visualization capabilities.
+The screenshots are numbered from 1 to 14, following the application's screens in sequential order, showcasing its main features, data processing workflow, and visualization capabilities.
 
 ## Development Approach
 
